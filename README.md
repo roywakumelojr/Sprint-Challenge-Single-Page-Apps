@@ -27,7 +27,8 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: 
+Client side routing allows an application to display different content on a custom url without needing to initial a network request each time.
 
 ## Project Set Up
 
